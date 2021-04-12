@@ -1,7 +1,7 @@
 <p align="center">
 <img src="images/logo.png">
 </p>
-<h1 font-weight:bold> Fooding   ![Generic badge](https://img.shields.io/badge/version-1.1.1-orange.svg)</h1><br>
+<h1 font-weight:bold> Fooding  </h1>![Generic badge](https://img.shields.io/badge/version-1.1.1-orange.svg)<br>
   
 # About Fooding
 
