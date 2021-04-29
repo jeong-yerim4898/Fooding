@@ -38,6 +38,10 @@
 
 <img src="images/Structure.png">
 
+# Fooding의 역사 (Notion)
+
+:orange_book: https://www.notion.so/Fooding-b615b047f68b4ebea93bc54391000b3d
+
 # Install
 
 ### __Django__
@@ -171,6 +175,5 @@
 # 팀원 소개 및 역할
 
 <img src="images/TeamInfo.png">
-## Fooding의 역사 (Notion)
-:dvd: https://www.notion.so/Fooding-b615b047f68b4ebea93bc54391000b3d
+
 
